@@ -1,0 +1,14 @@
+# Ignorar el entorno virtual
+yolov8-env/
+
+# Ignorar archivos temporales de Python
+*.pyc
+__pycache__/
+
+# Ignorar archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Ignorar archivos y carpetas del sistema operativo
+.DS_Store
+Thumbs.db
